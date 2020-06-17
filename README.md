@@ -37,5 +37,12 @@ ActiveMQ vs RabbitMQ vs ZeroMQ vs Apache Qpid vs Kafka vs IronMQ -Message Queue 
 
 Concurrency using messaging rather than memory sharing - http://wiki.zeromq.org/whitepapers:multithreading-magic
 * zeroQ claims 140K messages per second https://github.com/Abc-Arbitrage/Zebus/wiki/Performance
+* Queue measuring performance - http://wiki.zeromq.org/whitepapers:measuring-performance
+* Zero MQ Broker vs. Brokerless - Broker vs. Brokerless
+* Zero MQ Market Analysis - http://wiki.zeromq.org/whitepapers:market-analysis
+
+Go Bindings for AMQP protocol - https://github.com/Azure/go-amqp/graphs/contributors
+
+
 
 
