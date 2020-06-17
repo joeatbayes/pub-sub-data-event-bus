@@ -1,6 +1,8 @@
 # pub-sub-data-event-bus
 Research for pub sub data bus including data capture
 
+HL7 FHIR pub sub method for data distribution.   Note this seems to have replaced both ATOM and RSS as a feed mechanism in FHIR version 4 - https://www.hl7.org/fhir/subscription.html  https://www.hl7.org/fhir/bundle.html https://www.hl7.org/fhir/messaging.html  See:  Asynchronous Messaging using the RESTful API  
+
 Google Pub Sub overview - https://cloud.google.com/pubsub/docs/overview
 
 Google Pub Sub messaging Architecture - https://cloud.google.com/pubsub/architecture
